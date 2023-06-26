@@ -1,1 +1,1 @@
-Android aplikacija za ankete napravljena u Android Studio, koristeći programski jezik Kotlin.
+# Android aplikacija za ankete / Android application for questionnares
